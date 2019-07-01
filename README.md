@@ -1,4 +1,4 @@
-# Project 3
+# Redshift Music Plays Could Warehouse
 Project 3 consists of building dim and fact tables for a cloud data warehouse.  
 We will be copying data from s3 buckets and copying data into a redshift cluster.  
 Once data is copied an ETL process will be used to model the cloud data warehouse.  
